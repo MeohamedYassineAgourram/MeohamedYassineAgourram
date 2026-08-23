@@ -8,15 +8,6 @@
 - 🤖 **Now building:** my first robot. Boston Dynamics' Marc Theermann told me to *"start building"* — so I am.
 - 🌍 Arabic · English · French · 中文 (learning) — 🥋 karate brown belt, black in progress
 
-## 🔨 Shipped lately
-
-| Project | What it does | Stack |
-|---|---|---|
-| ⚖️ [**Overturn**](https://github.com/MohamedYassineAgourram/Overturn) 🏆 | Agent that fights wrongful insurance denials: decomposes the insurer's own policy into criteria, re-retrieves on misses, calls deterministic date/code tools, and drafts a citation-pinned appeal — or honestly refuses to file. **Winning project, RAISE Summit Hackathon 2026** — built solo, remote, in one weekend. | NVIDIA Nemotron · Vultr Serverless Inference · FastAPI · React/TS |
-| 🩺 [**MediCheck**](https://github.com/MohamedYassineAgourram/MediCheck) 🏆 | Privacy-first clinical intake: patient conversation → structured session, medication safety cards, PDF report. Fine-tuned GLiNER2 (LoRA, synthetic data) runs **3.8× faster than GPT-4o-mini** on clinical NER. Challenge winner. | Next.js · FastAPI · Pioneer GLiNER2 · Tavily · Supabase |
-| 🚨 [**OmniRescue-AI**](https://github.com/MohamedYassineAgourram/OmniRescue-AI) | 4-agent emergency dispatch: surveillance frame → incident classification → responder brief → units routed over real Paris roads, **in ~2 seconds** (up to 8.6× faster than a GPU baseline). | Gemma 4 31B · Cerebras · Node.js · Leaflet/OSRM |
-| 🎬 [**Netplixe**](https://github.com/MohamedYassineAgourram/Netplixe) | 25,000-movie streaming-style platform: Elasticsearch search with Mongo fallback, Redis caching, one-command Kubernetes deployment. | FastAPI · MongoDB · Redis · Elasticsearch · Docker · K8s |
-
 ## 📬 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/medyassineago/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedyassineagourram/)
 
